@@ -1,0 +1,93 @@
+
+.bannercontent{
+    font-size: large;
+    text-effect: engrave;
+    padding: 0px;
+    width: 100%;
+    margin: 0;
+    height: 10%;
+    flex: content;
+    background-color: cadetblue;
+    align-content: center;
+
+}
+.bannertext{
+    text-align: center;
+    color: black;
+    flex: content-box;
+    padding: 10px;
+    margin-left: 0;
+    background: cadetblue;
+    text-effect: engrave;
+    text-decoration: none;
+    align-content: center;
+    margin-left: 25px;
+
+}
+.bannertexth2{
+    letter-spacing: 10px;
+    font-weight: bolder;
+}
+.bannertexth1{
+    letter-spacing: 10px;
+    font-weight: bolder;
+}
+.header{
+    background-color: whitesmoke;
+    box-sizing: border-box;
+    align-content: center;
+    margin: auto;
+}
+.container{
+    background-color: whitesmoke;
+    box-sizing: border-box;
+    text-align: center;
+    margin: auto;
+    list-style: none;
+
+}
+.footer{
+    background-color: whitesmoke;
+    box-sizing: border-box;
+    text-align: center;
+    margin: auto;
+}
+.left-col{
+    width: 25%;
+    float: left;
+    margin: auto;
+    list-style: none;
+}
+.right-col{
+    width: 25%;
+    float: left;
+    text-align: left;
+    margin: auto;
+    align-content: center;
+
+}
+.center-col{
+    width: 50%;
+    float: left;
+    margin: auto;
+
+}
+#td{
+    font-size: small;
+    background-color: whitesmoke;
+    margin: auto ;
+}
+.background{
+    background-color: whitesmoke;
+}
+.border{
+    border-style: solid;
+    border-collapse: collapse;
+    border-color: whitesmoke;
+    box-sizing: border-box;
+}
+.table{
+    border: azure;
+    border-style: inherit;
+   margin: 5px;
+}
